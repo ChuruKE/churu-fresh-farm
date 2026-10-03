@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Fresh herbs and greens illustration">
+  <rect width="800" height="600" fill="#eef8ea"/>
+  <ellipse cx="400" cy="470" rx="250" ry="62" fill="#d7e3cc"/>
+  <path d="M180 470 C220 360, 280 320, 400 320 C520 320, 580 360, 620 470 L180 470 Z" fill="#a8d08c"/>
+  <g fill="#4fae4d">
+    <path d="M250 420 C235 378, 238 335, 270 290 C315 335, 320 390, 250 420 Z"/>
+    <path d="M350 425 C332 370, 336 335, 375 290 C425 340, 430 392, 350 425 Z"/>
+    <path d="M470 420 C450 370, 454 330, 492 286 C542 332, 548 392, 470 420 Z"/>
+    <path d="M560 425 C545 380, 548 350, 586 310 C630 355, 634 396, 560 425 Z"/>
+  </g>
+  <g fill="#7ccf64">
+    <path d="M190 430 C175 390, 180 350, 214 312 C252 356, 253 405, 190 430 Z"/>
+    <path d="M610 430 C594 388, 598 350, 632 312 C670 354, 671 405, 610 430 Z"/>
+  </g>
+  <g fill="#d7a33b" opacity="0.85">
+    <ellipse cx="290" cy="455" rx="20" ry="28"/>
+    <ellipse cx="405" cy="460" rx="22" ry="30"/>
+    <ellipse cx="525" cy="455" rx="20" ry="28"/>
+  </g>
+</svg>

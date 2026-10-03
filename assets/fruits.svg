@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Fruit basket illustration">
+  <rect width="800" height="600" fill="#f9f4d4"/>
+  <ellipse cx="400" cy="450" rx="280" ry="72" fill="#d8c59e" opacity="0.7"/>
+  <path d="M120 450 C180 365, 230 310, 400 310 C570 310, 620 365, 680 450 L120 450 Z" fill="#cf8f4a"/>
+  <path d="M150 450 C220 395, 300 370, 400 370 C500 370, 580 395, 650 450" fill="none" stroke="#9d6532" stroke-width="20" stroke-linecap="round"/>
+  <g fill="#ed6c52">
+    <circle cx="250" cy="390" r="54"/>
+    <circle cx="370" cy="400" r="60"/>
+    <circle cx="520" cy="385" r="52"/>
+  </g>
+  <g fill="#f4c95d">
+    <circle cx="300" cy="365" r="46"/>
+    <circle cx="443" cy="364" r="48"/>
+  </g>
+  <g fill="#7bba50">
+    <circle cx="195" cy="420" r="26"/>
+    <circle cx="610" cy="420" r="24"/>
+  </g>
+  <g stroke="#4a7e3a" stroke-width="6" fill="none">
+    <path d="M250 318 C232 290, 220 280, 210 252"/>
+    <path d="M370 318 C356 282, 340 268, 330 240"/>
+    <path d="M520 318 C540 284, 556 272, 566 246"/>
+  </g>
+</svg>
